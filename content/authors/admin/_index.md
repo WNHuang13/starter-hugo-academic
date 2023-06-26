@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Wanning Huang 黄晚宁
 
 # Full name (for SEO)
 first_name: Alice
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
