@@ -22,26 +22,26 @@ organizations:
     url: https://www.auckland.ac.nz/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest focus on how technology-enhanced feedback help student learning and engagement.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Feedback System
+  - Online Learning
+  - Student Engagement
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Education
       institution: the University of Auckland
-      year: 2021
+      year: 2021-now
     - course: MEng in Psychology
       institution: Central China Normal University
-      year: 2018
+      year: 2018-2021
     - course: BSc in Psychology
       institution: Anhui Normal University
-      year: 2014
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
